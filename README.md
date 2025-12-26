@@ -1,81 +1,64 @@
-# Abdul Ahad
-### Applied Machine Learning | RAG Systems | Computer Vision
+![logo](imgg.PNG)
 
-I work on applied machine learning systems with an interest in how models behave in real-world settings — not just benchmarks.
+<h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 
----
+<h3 align="center">
+<b>Software Engineer (AI Systems) | AI & ML Graduate Student</b>
+</h3>
 
-## 💫 About Me
+<hr>
 
-🔭 **Currently working on**  
-• RAG-based systems combining structured databases with LLMs  
-• Computer vision models for real-world datasets  
-• End-to-end ML pipelines with clean data, evaluation, and deployment in mind  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdulahad&label=Profile%20views&color=0e75b6&style=flat"
+       alt="profile views" />
+</p>
 
-👯 **Open to collaborating on**  
-• Practical AI/ML projects with real-world impact  
-• System-level ML work (RAG, NLP, CV, multimodal pipelines)  
-
-🤝 **Looking for help with**  
-• Model evaluation, benchmarking, and error analysis  
-• Scalable RAG architectures and data ingestion strategies  
-
-🌱 **Currently learning**  
-• Advanced deep learning using PyTorch  
-• Retrieval-Augmented Generation and vector database design  
-• MLOps fundamentals and reproducible ML workflows  
-
-💬 **Ask me about**  
-• ML fundamentals explained simply  
-• RAG pipelines and data preprocessing workflows  
-• Applying first-principles thinking from physics to ML  
-
-⚡ **Fun fact**  
-• I enjoy reducing complex systems to their simplest working parts — whether it’s physics or neural networks
+* 🎓 MSc in **Artificial Intelligence & Machine Learning** (July 2026)
+* 🧠 Physics background → strong math, logic, and system intuition
+* ⚙️ Build **AI-powered backend systems**, not just models
+* 🤖 Work with **LLMs, RAG, async task queues, and persistent memory**
+* 📫 **aahad8948@gmail.com**
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulahad0296)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulahad0296)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aahad8948@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/abdulahad0296)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abdulahad0296)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Focus
 
-**Languages & Core**:
+**Languages & Backend**  
+Python · SQL · Django · REST APIs
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+**AI / ML**  
+PyTorch · LLM Integration · Retrieval-Augmented Generation · Context-aware Agents
 
-**ML / Data**:
+**Systems & Infra**  
+Asynchronous Workers · Task Queues · Redis · Docker · docker-compose
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+**Data**  
+PostgreSQL · SQLite · Structured data pipelines
 
-**Databases & Tools**:
+---
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+## 🚀 What I Build
+
+* Full-stack **AI agents** with async execution and memory
+* **RAG-based systems** grounded in real data
+* ML-powered applications with clean backend boundaries
+* Production-style pipelines that handle latency and scale
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abdulahad0296&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad0296&theme=github_dark&hide_border=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=abdulahad&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulahad&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad&layout=compact&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abdulahad0296&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">Thanks for stopping by 👋</h2>
