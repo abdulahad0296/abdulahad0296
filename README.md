@@ -1,4 +1,4 @@
-![logo](imgg.PNG)
+![logo](imgg.png)
 <h1 align="center">Hi, I’m Abdul Ahad 👋</h1>
 
 <h3 align="center">
